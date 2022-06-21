@@ -1,0 +1,38 @@
+.title{
+    display:flex;
+    gap:30px;
+    color:green;
+    justify-content:space-around;
+}
+
+p{
+    text-align:center;
+}
+
+.container{
+    text-align:center;
+}
+
+h2{
+    background:blue;
+    color:white;
+    font-size:28px;
+}
+button{
+    width:100px;
+    height:30px;
+    font-weight:bold;
+    background:white;
+    
+}
+
+.canvasDemo{
+    text-align:center;
+}
+
+main{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+
+}
